@@ -1,5 +1,5 @@
 ('C:\\Users\\Asier\\Desktop\\Debuger\\dist\\main.exe',
- False,
+ True,
  False,
  False,
  None,
@@ -2916,7 +2916,7 @@
  [],
  False,
  False,
- 1541892969,
- [('runw.exe',
-   'c:\\users\\asier\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\runw.exe',
+ 1541936730,
+ [('run.exe',
+   'c:\\users\\asier\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\run.exe',
    'EXECUTABLE')])
